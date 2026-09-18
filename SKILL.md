@@ -1,3 +1,9 @@
+---
+name: comms-templates
+description: >
+  Use these as starting points. Adapt to Patrick's voice — direct, concise, no fluff. Hey [Manager] — quick weekly update: Use this skill when working with comms templates tasks or workflows.
+---
+
 # Stakeholder Communication Templates
 
 Use these as starting points. Adapt to Patrick's voice — direct, concise, no fluff.
